@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+dataset/h1b_kaggle.csv
+dataset/h1b_cleaned.csv
+dataset/h1b_model_data.csv
+
+# Large trained model
+model/visa_random_forest.pkl
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
